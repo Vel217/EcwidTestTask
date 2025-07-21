@@ -4,7 +4,7 @@ import { fileURLToPath, URL } from 'url'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/EcwidTestTask/',
+  base: process.env.NODE_ENV === 'production' ? '/EcwidTestTask/' : '/',
   plugins: [vue()],
   resolve: {
     alias: {
