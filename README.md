@@ -119,3 +119,13 @@ npm run test
 ```
 
 The project includes unit tests for the cart management logic.
+
+## Deployment
+
+**Live URL:** [https://vel217.github.io/EcwidTestTask/](https://vel217.github.io/EcwidTestTask/)
+
+To deploy the latest version:
+
+```bash
+npm run deploy
+```
