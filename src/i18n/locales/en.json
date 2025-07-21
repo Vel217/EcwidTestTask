@@ -1,0 +1,38 @@
+{
+  "CartPage": {
+    "succesPlaced": "Your order has been successfully placed.",
+    "congratOnYourPurchase": "Congratulations on your purchase!",
+    "placeOrder": "Place Order",
+    "continueShopping": "Continue Shopping",
+    "free": "Free",
+    "shipping": "Shipping",
+    "subtotal": "Subtotal",
+    "orderSummary": "Order Summary",
+    "remove": "Remove",
+    "cartEmpty": "Your cart is empty",
+    "shoppingCart": "Shopping Cart"
+  },
+  "CategoryPage": {
+    "noProducts": "No products or subcategories found in this category."
+  },
+  "common": {
+    "home": "Home",
+    "products": "Products",
+    "categories": "Categories",
+    "subcategories": "Subcategories",
+    "close": "Close",
+    "tryAgain": "Try Again",
+    "noProductsOrCategories": "No products or categories found."
+  },
+  "ProductPage": {
+    "description": "Description",
+    "quantity": "Quantity",
+    "addToCart": "Add to Cart",
+    "outOfStock": "Out of Stock",
+    "specifications": "Specifications",
+    "recommendedProd": "Recommended Products",
+    "sku": "SKU",
+    "taxInclude": "Tax include",
+    "freeShipping": "Free shipping"
+  }
+}
